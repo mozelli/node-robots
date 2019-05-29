@@ -2,7 +2,8 @@ const robots = {
     input: require('./robots/user-input'),
     text: require('./robots/text'),
     state: require('./robots/state'),
-    images: require('./robots/images')
+    images: require('./robots/images'),
+    translator: require('./robots/translator')
 };
 
 async function start() {
