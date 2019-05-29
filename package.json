@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "algorithmia": "^0.3.10",
+    "gm": "^1.23.1",
     "googleapis": "^40.0.0",
     "image-downloader": "^3.4.2",
     "readline-sync": "^1.4.9",
